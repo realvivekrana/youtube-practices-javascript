@@ -301,35 +301,80 @@
 // console.log(myprofile.Address.pincode);
 // console.log(myprofile.skills);
 
-//🚀 Mini Project 1 - Student Information System
+// //🚀 Mini Project 1 - Student Information System
 
-let studentName = "Vivek Rana";
-let age = 25;
-let city = "Pune";
-let state = "Maharastra";
-let college = "Amity University";
-let course = "MCA";
-let semeter = 4;
-let cgpa = 8.5;
-let isStudent = true;
-let phone = 9304718075;
+// let studentName = "Vivek Rana";
+// let age = 25;
+// let city = "Pune";
+// let state = "Maharastra";
+// let college = "Amity University";
+// let course = "MCA";
+// let semeter = 4;
+// let cgpa = 8.5;
+// let isStudent = true;
+// let phone = 9304718075;
 
-console.log("🚀 Mini Project 1 - Student Information System");
-
-
-console.log("Name:",studentName);
-console.log("Age:",age);
-console.log("State:",state);
-console.log("College:",college);
-console.log("Course:",course)
-console.log("Semester:",semeter);
-console.log("Marks",cgpa);
-console.log("Student",isStudent);
-console.log("Phone:",phone);
+// console.log("🚀 Mini Project 1 - Student Information System");
 
 
+// console.log("Name:",studentName);
+// console.log("Age:",age);
+// console.log("State:",state);
+// console.log("College:",college);
+// console.log("Course:",course)
+// console.log("Semester:",semeter);
+// console.log("Marks",cgpa);
+// console.log("Student",isStudent);
+// console.log("Phone:",phone);
 
-;
+//🚀 Project 2 - E-Commerce Product Management System
+
+let productName = "Iphone 14 max pro";
+let brand = "Apple";
+let category = "Mobile";
+let color = "Black";
+let storage = "256GB";
+
+let price = 189000;
+let discount = 10;
+let stock = 15;
+let ratting = 4.5;
+let totalReviews = 1350;
+
+let isAvailable = true;
+let freeDelivery = true;
+let warrenty = "1 Year";
+
+console.log("🚀 Project 2 - E-Commerce Product Management System");
+
+console.log("Product Name:",productName);
+console.log("Brand:",brand);
+console.log("Category:",category);
+console.log("Color:",color);
+console.log("Storage:",storage);
+
+console.log("Price:",price);
+console.log("Discount:",discount);
+console.log("Stock:",stock);
+console.log("Ratting:",ratting);
+console.log("Reviews:",totalReviews);
+
+console.log("Available:",isAvailable);
+console.log("Delivery:",freeDelivery);
+console.log("Warrenty:",warrenty);
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
