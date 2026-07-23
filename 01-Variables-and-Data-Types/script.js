@@ -281,25 +281,61 @@
 
 //Q40. Create your complete profile.
 
-let myprofile ={
-    firstName: "Vivek",
-    lastName: "Rana",
-    Age: 25,
-    skills:[
-        "Mongodb",
-        "Express",
-        "React",
-        "Nodejs"
-    ],
-    Address:{
-        city: "Jainagar",
-        state: "Jharkhand",
-        pincode: 825109
-    }
-}
-console.log(myprofile);
-console.log(myprofile.Address.pincode);
-console.log(myprofile.skills);
+// let myprofile ={
+//     firstName: "Vivek",
+//     lastName: "Rana",
+//     Age: 25,
+//     skills:[
+//         "Mongodb",
+//         "Express",
+//         "React",
+//         "Nodejs"
+//     ],
+//     Address:{
+//         city: "Jainagar",
+//         state: "Jharkhand",
+//         pincode: 825109
+//     }
+// }
+// console.log(myprofile);
+// console.log(myprofile.Address.pincode);
+// console.log(myprofile.skills);
+
+//🚀 Mini Project 1 - Student Information System
+
+let studentName = "Vivek Rana";
+let age = 25;
+let city = "Pune";
+let state = "Maharastra";
+let college = "Amity University";
+let course = "MCA";
+let semeter = 4;
+let cgpa = 8.5;
+let isStudent = true;
+let phone = 9304718075;
+
+console.log("🚀 Mini Project 1 - Student Information System");
+
+
+console.log("Name:",studentName);
+console.log("Age:",age);
+console.log("State:",state);
+console.log("College:",college);
+console.log("Course:",course)
+console.log("Semester:",semeter);
+console.log("Marks",cgpa);
+console.log("Student",isStudent);
+console.log("Phone:",phone);
+
+
+
+;
+
+
+
+
+
+
 
 
 
